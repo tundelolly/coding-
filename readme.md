@@ -1,6 +1,6 @@
 
 #Kidsteppers
 
-The dance school
+Let dance
 
 the dance team head
