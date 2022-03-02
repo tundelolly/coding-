@@ -1,6 +1,12 @@
+#Readme
 
-#Kidsteppers
+#Adeola kay
 
-Let dance
+An Educational and Tourism website 
 
-the dance team head
+##feature
+-Home 
+-Education 
+-Tourism 
+-About 
+-Contact 
